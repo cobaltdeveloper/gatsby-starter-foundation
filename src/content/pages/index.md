@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Title Header Here
+tagline: Subtitle Here
+featuredImage: /assets/alex-zr48yvupk04-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: More Info Button
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Description section goes here.
